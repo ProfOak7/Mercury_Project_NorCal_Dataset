@@ -28,7 +28,7 @@ View SierraDataset3.ipynb within this repository to view the python code, which 
 
 - [Station Map by Watershed](https://www.dropbox.com/scl/fi/a7h0med0lmprfo8p1fi2v/stations_by_watershed.html?rlkey=45iayifsg22ryth4ct3e5nxgk&st=3d8q7ei9&dl=0)
 
-- ## Note: For these analysis, they didn't check the downstream/valley or American River- only the mining sites 
+- ### Note: For these analysis, they didn't check the downstream/valley or American River- only the mining sites 
 
 - [Invertebrate Methylation Map by Watershed](https://www.dropbox.com/scl/fi/gkfo3xjoteuacbzx8jfna/invertebrate_methylatedmercury_by_watershed.html?rlkey=xkmbnnckmmls1es3q380ptukf&st=w7jef4b6&dl=0)
 
