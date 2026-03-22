@@ -20,6 +20,8 @@ View SierraDataset3.ipynb to view the code used to generate the following maps a
 
 <img width="989" height="590" alt="sediment_box" src="https://github.com/user-attachments/assets/b224eacc-341f-4bd2-9e03-9613a2a80d48" />
 
+Note: For these analysis, they didn't check the downstream/valley
+
 <img width="989" height="590" alt="invert_totaldot" src="https://github.com/user-attachments/assets/44705b39-1512-4b5b-afc9-fe97d27e4ddc" />
 
 <img width="989" height="590" alt="invert_totalbox" src="https://github.com/user-attachments/assets/16633db9-77e5-4a83-a057-b754357985b3" />
