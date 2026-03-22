@@ -8,7 +8,7 @@
 
 - [Invertebrate Methylation Map by Watershed](https://www.dropbox.com/scl/fi/gkfo3xjoteuacbzx8jfna/invertebrate_methylatedmercury_by_watershed.html?rlkey=xkmbnnckmmls1es3q380ptukf&st=w7jef4b6&dl=0)
 
-- ![Water Mercury by watershed - dot plot](https://www.dropbox.com/scl/fi/km1g3vi428u9ran2grlbm/waterdot.png
-)
+- ![Water Mercury by watershed - dot plot](https://www.dropbox.com/scl/fi/km1g3vi428u9ran2grlbm/waterdot.png?rlkey=d152dfjrr5be8uy7l9vcy2yta&st=71g76z2m&dl=0)
+
 
 
