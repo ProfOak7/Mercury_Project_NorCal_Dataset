@@ -11,3 +11,15 @@
 <img width="988" height="590" alt="waterdot" src="https://github.com/user-attachments/assets/4bfb1eb8-3036-42bb-a698-a0b2fa676798" />
 
 <img width="982" height="590" alt="waterbox" src="https://github.com/user-attachments/assets/29e218f1-784d-47c8-b81b-05ff3b7ede37" />
+
+<img width="989" height="590" alt="sediment" src="https://github.com/user-attachments/assets/0b0fbb74-3f59-447e-a885-9578550dd566" />
+
+<img width="989" height="590" alt="sediment_box" src="https://github.com/user-attachments/assets/b224eacc-341f-4bd2-9e03-9613a2a80d48" />
+
+<img width="989" height="590" alt="invert_totaldot" src="https://github.com/user-attachments/assets/44705b39-1512-4b5b-afc9-fe97d27e4ddc" />
+
+<img width="989" height="590" alt="invert_totalbox" src="https://github.com/user-attachments/assets/16633db9-77e5-4a83-a057-b754357985b3" />
+
+<img width="989" height="590" alt="percentmethylated_dot" src="https://github.com/user-attachments/assets/4b3f56d4-f18b-45bf-afcc-af103e00a1d5" />
+
+<img width="989" height="590" alt="percentmethylated_box" src="https://github.com/user-attachments/assets/78009297-34fe-4a81-91c5-a4f46069c9cf" />
