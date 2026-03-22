@@ -13,7 +13,11 @@ Alpers, C.N., Orlando, J.L., Miller, S.L., Hothem, R.L., Stumpner, E.B., Brussee
 
 
 Summary
-This dataset includes data for water, sediment, and biota samples collected at 250 locations in the northwestern Sierra Nevada and the Trinity Mountains during 1999–2012. The locations were chosen to assess potential effects from historical mining, with a focus primarily on mercury contamination associated with placer gold mines in the Sierra Nevada and the Trinity Mountains, and a hard-rock mercury mine in the Trinity Mountains. Trace elements and major elements were analyzed in selected samples. All analyses of mercury, methylmercury, and (or) trace and major elements in water and sediment were performed by U.S. Geological Survey laboratories. Biota samples (invertebrates, fish, and frogs) were analyzed for mercury, methylmercury and (or) trace elements at the Trace Element Research Laboratory in College Station, Texas.
+This dataset includes data for water, sediment, and biota samples collected at 250 locations in the northwestern Sierra Nevada and the Trinity Mountains during 1999–2012. The locations were chosen to assess potential effects from historical mining, with a focus primarily on mercury contamination associated with placer gold mines in the Sierra Nevada and the Trinity Mountains, and a hard-rock mercury mine in the Trinity Mountains. Trace elements and major elements were analyzed in selected samples. All analyses of mercury, methylmercury, and (or) trace and major elements in water and sediment were performed by U.S. Geological Survey laboratories. Biota samples (invertebrates, fish, and frogs) were analyzed for mercury, methylmercury and (or) trace elements at the Trace Element Research Laboratory in College Station, Texas. 
+
+Of note, the 2023 dataset that we have yet to specifically generated (at least the mercury testing was performed by) the USGS Mercury Research 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10259237/#S16
 
 
 View SierraDataset3.ipynb within this repository to view the python code, which you can use in googfle colab generate the following interactive maps and graphs (AND MORE) within your own browser and notebook:
