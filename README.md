@@ -1,13 +1,10 @@
 This Folder is an analysis of the following dataset: https://www.sciencebase.gov/catalog/item/5f91e00782ce720ee2d33c5b
 
 Geochemical data for water, sediment, and biota in areas affected by historical mining, northwestern Sierra Nevada and Trinity Mountains, California
-Dates
+
 Publication Date
 2024-01-17
-Start Date
-1999-03-31
-End Date
-2012-11-15
+
 Citation
 Alpers, C.N., Orlando, J.L., Miller, S.L., Hothem, R.L., Stumpner, E.B., Brussee, B.E., Hunerlach, M.P., May, J.T., Dileanis, P.D., Taylor, H.E., Antweiler, R.C., DeWild, J.F., and Marvin-DiPasquale, M.C., 2024, Geochemical data for water, sediment, and biota in areas affected by historical mining, northwestern Sierra Nevada and Trinity Mountains, California: U.S. Geological Survey data release, https://doi.org/10.5066/P9EL0UN9.
 
