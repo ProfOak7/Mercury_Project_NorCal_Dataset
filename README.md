@@ -17,7 +17,7 @@ This dataset includes data for water, sediment, and biota samples collected at 2
 Of note, the 2023 dataset that we have yet to analyze specifically generated their data (at least the mercury testing was performed by) at the USGS Mercury Research Laboratory https://pmc.ncbi.nlm.nih.gov/articles/PMC10259237/#S16
 
 
-View SierraDataset3.ipynb within this repository to view the python code, which you can use in googfle colab generate the following interactive maps and graphs (AND MORE) within your own browser and notebook:
+View SierraDataset3.ipynb within this repository to view the python code, which you can use in googfle colab to generate the following interactive maps and graphs (AND MORE) within your own browser and notebook:
 
 ## Interactive Maps
 
