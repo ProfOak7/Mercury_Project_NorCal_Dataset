@@ -5,11 +5,13 @@ Geochemical data for water, sediment, and biota in areas affected by historical 
 Publication Date
 2024-01-17
 
-Citation
+Citation:
+
 Alpers, C.N., Orlando, J.L., Miller, S.L., Hothem, R.L., Stumpner, E.B., Brussee, B.E., Hunerlach, M.P., May, J.T., Dileanis, P.D., Taylor, H.E., Antweiler, R.C., DeWild, J.F., and Marvin-DiPasquale, M.C., 2024, Geochemical data for water, sediment, and biota in areas affected by historical mining, northwestern Sierra Nevada and Trinity Mountains, California: U.S. Geological Survey data release, https://doi.org/10.5066/P9EL0UN9.
 
 
-Summary
+Summary:
+
 This dataset includes data for water, sediment, and biota samples collected at 250 locations in the northwestern Sierra Nevada and the Trinity Mountains during 1999–2012. The locations were chosen to assess potential effects from historical mining, with a focus primarily on mercury contamination associated with placer gold mines in the Sierra Nevada and the Trinity Mountains, and a hard-rock mercury mine in the Trinity Mountains. Trace elements and major elements were analyzed in selected samples. All analyses of mercury, methylmercury, and (or) trace and major elements in water and sediment were performed by U.S. Geological Survey laboratories. Biota samples (invertebrates, fish, and frogs) were analyzed for mercury, methylmercury and (or) trace elements at the Trace Element Research Laboratory in College Station, Texas. 
 
 Of note, the 2023 dataset that we have yet to specifically generated (at least the mercury testing was performed by) the USGS Mercury Research Laboratory https://pmc.ncbi.nlm.nih.gov/articles/PMC10259237/#S16
